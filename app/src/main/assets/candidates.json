@@ -1,0 +1,20 @@
+[
+  {
+    "name" : "Rick Sanchez",
+    "number" : 137,
+    "party" : "PWD",
+    "vice_president" : "Morty",
+    "votes" : 0,
+    "photo": "https://image.ibb.co/drjV2q/rick-sanchez.png"
+  },
+  {
+    "name" : "Mr Meeseeks",
+    "number" : 47,
+    "party" : "PSDB",
+    "vice_president" : "Other Meeseeks",
+    "votes" : 0,
+    "photo" : "https://image.ibb.co/bX2Hhq/mr-meeseeks.png"
+  }
+]
+
+
