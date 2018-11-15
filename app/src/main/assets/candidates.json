@@ -5,7 +5,8 @@
     "party" : "PWD",
     "vice_president" : "Morty",
     "votes" : 0,
-    "photo": "https://image.ibb.co/drjV2q/rick-sanchez.png"
+    "photo" : "https://image.ibb.co/jB4fvL/rick.png",
+    "color" : "#289F3F"
   },
   {
     "name" : "Mr Meeseeks",
@@ -13,8 +14,25 @@
     "party" : "PSDB",
     "vice_president" : "Other Meeseeks",
     "votes" : 0,
-    "photo" : "https://image.ibb.co/bX2Hhq/mr-meeseeks.png"
+    "photo" : "https://image.ibb.co/cikW20/mr-meeseeks.png",
+    "color" : "#285A9F"
+  },
+  {
+    "name" : "Bob Esponja",
+    "number" : 11,
+    "party" : "PSOL",
+    "vice_president" : "Patrick",
+    "votes" : 0,
+    "photo" : "https://image.ibb.co/j2o7aL/bob-esponja.png",
+    "color" : "#43289F"
+  },
+  {
+    "name" : "Cerebro",
+    "number" : 20,
+    "party" : "PODEMOS",
+    "vice_president" : "Pink",
+    "votes" : 0,
+    "photo" : "https://image.ibb.co/eFXB20/cerebro.png",
+    "color" : "#9F2828"
   }
 ]
-
-

@@ -8,7 +8,8 @@ data class Candidate(
     val party: String? = null,
     val vice_president: String? = null,
     var votes: Int? = null,
-    val photo: String? = null
+    val photo: String? = null,
+    val color: String? = null
 ):Serializable {
 
 }
